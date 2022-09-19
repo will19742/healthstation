@@ -1,3 +1,5 @@
+//Proyecto creado por Bachillerato Desarrollo de Software
+
 #include <SoftwareSerial.h>
 #include "DHT.h"
 
